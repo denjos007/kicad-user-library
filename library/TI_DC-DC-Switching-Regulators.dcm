@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS627451DSST
+D Dual-cell Ultra Low IQ Step Down Converter for Low Power Wireless Applications
+K DC-DC, Multiple Ouptut Voltages
+F http://www.ti.com/lit/ds/symlink/tps62745.pdf?&ts=1589957549735
+$ENDCMP
+#
+#End Doc Library

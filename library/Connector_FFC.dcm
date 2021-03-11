@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 10051922-2410ELF
+D FFC Right angle SMD Connector, 24 pin, 0.5mm
+K FFC Connector (24, 0.5)
+F https://www.amphenol-icc.com/media/wysiwyg/files/drawing/10051922.pdf
+$ENDCMP
+#
+#End Doc Library

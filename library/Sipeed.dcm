@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP M1
+D Kendryte K210 based Vision processor with AI accelerator, Custom Package
+K Vision Processor
+F https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_datasheet_20181011163248_en.pdf
+$ENDCMP
+#
+$CMP M1W
+D Kendryte K210 based Vision processor with AI accelerator w/ WIFI
+K Vision Processor
+F https://s3.cn-north-1.amazonaws.com.cn/dl.kendryte.com/documents/kendryte_datasheet_20181011163248_en.pdf
+$ENDCMP
+#
+#End Doc Library
