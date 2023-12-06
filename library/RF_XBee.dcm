@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP XB3-24Z8CM-J
-D XBee 3 Micro, 2.4 GHZ Advanced RF communication module
-K 2.4GHz, RF Module, zigbee
-F https://www.digi.com/pdf/ds_xbee-3-zigbee-3.pdf
-$ENDCMP
-#
-#End Doc Library
